@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "browser_ids",
+  "info": {
+    "singularName": "browser-id",
+    "pluralName": "browser-ids",
+    "displayName": "browserId"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "browserId": {
+      "type": "biginteger"
+    },
+    "keterangan": {
+      "type": "richtext"
+    }
+  }
+}
